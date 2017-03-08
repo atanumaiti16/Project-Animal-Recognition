@@ -7,7 +7,7 @@ import org.openimaj.image.feature.local.keypoints.Keypoint;
 import java.io.*;
 
 /**
- * Created by Naga on 20-09-2016.
+ * Created by Atanu on 20-09-2016.
  */
 public class ObjectFeatureExtraction {
     public static void main(String args[]) throws IOException {
